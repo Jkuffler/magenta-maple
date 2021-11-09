@@ -26,7 +26,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "Sign In / Sign Up",
                 "url": "/contact",
                 "style": "primary"
             }
