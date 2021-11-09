@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: BowlR allows . . .
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Review Bowling Alleys | Track Scores | Coaching Journal
     actions:
       - label: Learn More
         url: /features
