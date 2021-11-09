@@ -10,7 +10,7 @@ sections:
         style: secondary
     align: left
     image: /images/bowling-10-pin-adobestock_266888306.jpg
-    image_alt: Hero placeholder image
+    image_alt: Strike Shot
     image_position: right
     has_background: true
     background:
