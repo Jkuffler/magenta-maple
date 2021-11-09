@@ -46,6 +46,7 @@ sections:
         actions:
           - url: /features
             style: secondary
+            label: Sign Up / Log In
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
