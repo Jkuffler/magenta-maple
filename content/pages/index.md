@@ -27,7 +27,7 @@ sections:
           Share your experience and help support your favorite major house or a
           locally owned/operated establishment!
         align: left
-        image: images/feature.svg
+        image: /images/lanes.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
