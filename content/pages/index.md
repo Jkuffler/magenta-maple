@@ -23,10 +23,9 @@ sections:
     title: Features
     features:
       - title: Review Lanes
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Share your experience and help support your favorite major house or a
+          locally owned/operated establishment!
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
