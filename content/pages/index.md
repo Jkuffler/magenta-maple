@@ -5,7 +5,7 @@ sections:
     title: BowlR allows . . .
     subtitle: Review Bowling Alleys | Track Scores | Coaching Journal
     actions:
-      - label: Learn More
+      - label: Lanes
         url: /features
         style: primary
       - label: Contact Us
