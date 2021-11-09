@@ -35,10 +35,10 @@ sections:
             url: /features
             style: secondary
       - title: Track Scores | Add Coaching
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          After a game you can log your total along with tips that would have
+          improved your game. Don't forget to note lane conditions, equipment,
+          spare shots, approach, swing, slide, and release!
         align: left
         image: /images/score_sheet.jpg
         image_alt: Feature 2 placeholder image
